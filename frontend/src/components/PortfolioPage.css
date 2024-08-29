@@ -1,0 +1,21 @@
+.portfolio-container {
+    padding-top: 20px;
+  }
+  
+  .table {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+  }
+  
+  .footer {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+  }
+  
+  .navbar-brand img {
+    max-height: 60px;
+  }
+  
